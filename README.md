@@ -1,4 +1,5 @@
 # CollegeConnect
+online platform for juniors and seniors to connect for mentor ship and guidance which has been hampered by online mode of education
 
 ![image](https://user-images.githubusercontent.com/62583380/143078366-2aa9143d-0aed-47bd-887a-1683b6efd97f.png)
 
